@@ -100,6 +100,7 @@ var games = {
     "tak2_staff_of_dreams":"Tak 2: The Staff of Dreams",
     "tetris_worlds":"Tetris Worlds",
     "tmnt":"Teenage Mutant Ninja Turtles",
+    "touhoumon_purple": "Touhoumon Purple",
     "sims_bustin_out":"The Sims: Bustin' Out",
     "sims2":"The Sims 2",
     "spyro_adventure":"Spyro Adventure",
